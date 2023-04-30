@@ -16,3 +16,7 @@ go run main.go
 
 This will output an ICS file in the `output` directory, which you can
 open in a Calendar app.
+
+## To-do's
+
+  - Allow command line options
